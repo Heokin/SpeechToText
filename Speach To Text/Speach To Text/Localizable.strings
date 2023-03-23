@@ -1,0 +1,83 @@
+/* 
+  Localizable.strings
+  Speach To Text
+
+  Created by Kirill Sedliarov on 8.02.23.
+  
+*/
+
+"firstOnBoardingHeaderUp" = "Speaker Test";
+"firstOnBoardingHeaderDown" = "Play Sound at Any Frequency";
+
+"secondOnBoardingHeaderUp" = "Sound Cleaner";
+"secondOnBoardingHeaderDown" = "Eject Moisture from Speakers";
+
+"unlockButton" = "Unlock All Features";
+"buttonRestore" = "Restore";
+"buttonDone" = "Done";
+
+"continueOnBoarding" = "Continue";
+
+"subscribeFreeTrial" = "7-day
+free trial";
+
+"subscribeHeader" = "Unlock All Access";
+"subscribeTitleLim" = "No Limits";
+"subscribeTitleAds" = "No Ads";
+
+"subscribeWeekly" = "Weekly";
+"subscribeYearly" = "Yearly";
+"subscribeMonthly" = "Monthly";
+
+"test" = "Test";
+
+"iconManual" = "Manual";
+"iconAuto" = "Auto";
+"iconStereo" = "Stereo";
+
+"swipe" = "Swipe Up & Down to Adjust Frequency";
+
+"start" = "Start";
+
+"transcribe" = "Transcribe";
+"stop" = "Stop";
+
+"titleSetting" = "Settings";
+
+"settingUnlock" = "Unlock All Features";
+"settingRateUs" = "Rate Us";
+"settingSupport" = "Support";
+"settingPrivacyPolicy" = "Privacy Policy";
+"settingTermsOfUse" = "Terms of Use";
+"settingShareTheApp" = "Share the App";
+
+
+"sharing" = "This app will help clear your speakers: ";
+
+"helpText" = "Add audio files to the library.
+Click button “Add Notes” to add a new file";
+
+"alertOk" = "OK";
+"cancel" = "Cancel";
+"alertYes" = "Yes";
+"alertNo" = "No";
+"alertRate" = "Do You Like This App?";
+
+"selectLang" = "Select Language";
+"settingLang" = "Language";
+
+"library" = "Library";
+
+
+"alertRestore" = "No Subscription Found";
+"alertRestoreDiscription" = "You have not previously subscribed to
+\"Speaker Cleaner\" using this Apple ID.";
+
+"addNotes" = "Add Notes";
+
+"alertInternet" = "Slow Internet";
+"alertInternetDiscription" = "Please find a faster connection first";
+
+"alertSave" = "Save Result";
+"alertSaveDiscription" = "Please confirm saving the result if you are satisfied with it, or save only the audio file to convert it later.";
+"alertSaveOnly" = "Save Only the Audio";
